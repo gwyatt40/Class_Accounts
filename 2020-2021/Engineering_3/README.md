@@ -14,6 +14,7 @@ Will K | [willhk10](https://github.com/willhk10) | I like swimming :)
 Loren L. | [llemarr42](https://github.com/llemarr42) | I like playing board games
 Sean L. | [BigSean](https://github.com/slynch66) | I like playing football :football:
 Hank P. | [hdpow](https://github.com/hdpow) | I like video games :video_game:
+Georgia W. | [gwyatt40](https://github.com/gwyatt40) | I am scared of bugs :3
 
 ## 3rd Period - Dr. Shields
 Name | Username | Fun Fact
